@@ -8,7 +8,7 @@
 ## Install
 
 ```sh
-(npm install)(npm run dev)(php artisan migrate:fresh --seed)
+(composer install)(php artisan key:generate)(cp .env.example .env)(create a database)(npm install)(npm run dev)(php artisan migrate:fresh --seed)
 ```
 
 ## Usage
