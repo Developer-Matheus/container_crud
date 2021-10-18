@@ -8,7 +8,7 @@
 ## Install
 
 ```sh
-(cd container_crud)(composer install)(php artisan key:generate)(cp .env.example .env)(create a database)(npm install)(npm run dev)(php artisan migrate:fresh --seed)
+(cd container_crud)(composer install)(cp .env.example .env)(php artisan key:generate)(create a database)(npm install)(npm run dev)(php artisan migrate:fresh --seed)
 ```
 
 ## Usage
